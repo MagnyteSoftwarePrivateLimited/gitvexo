@@ -7,7 +7,7 @@ Keywords: git hosting, self-hosted github clone, multi-tenant saas git, dns veri
 -->
 
 <div align="center">
-  <img src="public/logo_without_bg.png" alt="GitVexo Logo" width="120" height="120" />
+  <img src="[public/logo_without_bg.png](https://i.ibb.co/R4HHXWwM/Chat-GPT-Image-May-26-2026-06-47-40-PM-removebg-preview-1.png)" alt="GitVexo Logo" width="120" height="120" />
   <h1>GitVexo Hub</h1>
   <p><strong>The Secure, Multi-Tenant Git Hosting & Collaboration Platform for Enterprises</strong></p>
   <p><i>A premium, auditable alternative to GitHub and GitLab built to protect intellectual property in private custody.</i></p>
